@@ -1,0 +1,10 @@
+.mycard:hover{
+    transform: scale(1.1);
+    transition: .4s;}
+.mycard{
+    box-shadow: px 5px 5px rgb(0 0 0 / 60%);;
+}
+    #root{
+        display: flex;
+    justify-content: space-around;
+    }
